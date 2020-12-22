@@ -6,15 +6,18 @@
 
 <div id='general-info'/>
 ## General info
+
 This repo refers to the IBM AI Engineering Certificate from IBM.
+
 This 6-course Professional Certificate is designed to acquire the tools to succeed in your career as an AI or ML engineer.  
-	[Introduction to Artificial Intelligence (AI)](#introAI)
-	[Scalable Machine Learning on Big Data using Apache Spark](#apacheSpark)
-	[Introduction to Deep Learning & Neural Networks with Keras](#Keras)
-	[Deep Neural Networks with PyTorch](#Pytorch)
-	[Building Deep Learning Models with TensorFlow](#Tensorflow)
-	[AI Capstone Project with Deep Learning](#DeepLearning)
-	[Machine Learning with Python](#ML)
+
+[Introduction to Artificial Intelligence (AI)](#introAI)
+[Scalable Machine Learning on Big Data using Apache Spark](#apacheSpark)
+[Introduction to Deep Learning & Neural Networks with Keras](#Keras)
+[Deep Neural Networks with PyTorch](#Pytorch)
+[Building Deep Learning Models with TensorFlow](#Tensorflow)
+[AI Capstone Project with Deep Learning](#DeepLearning)
+[Machine Learning with Python](#ML)
 
 <div id='Concepts'/>
 ## Concepts
