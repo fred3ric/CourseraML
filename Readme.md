@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 
 <div id='general-info'/>
+
 ## General info
 
 This repo refers to the IBM AI Engineering Certificate from IBM.
